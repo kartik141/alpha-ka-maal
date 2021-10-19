@@ -1,4 +1,4 @@
-package keep_alive
+package main
 
 import (
   "net/http"
